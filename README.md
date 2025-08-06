@@ -51,7 +51,7 @@ Tuy nhiên, thư mục 'train' và 'test' là bắt buộc để huấn luyện 
 ## Resources
 1. [Official Doucumentation Ultralytics](https://github.com/ultralytics/ultralytics)
 2. https://docs.ultralytics.com/models/yolov8/#__tabbed_2_1
-3. [Dataset](https://universe.roboflow.com/ahmad-nabil/food-detection-for-yolo-trainingg)
+3. [Dataset](https://universe.roboflow.com/ahmad-nabil/food-detection-for-yolo-training)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
